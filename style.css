@@ -26,5 +26,6 @@ width: 100%;
     list-style-type: none;
     display: flex;
     margin: 0px;
+    gap: 20px;
     padding: 10px 15px;
 }
