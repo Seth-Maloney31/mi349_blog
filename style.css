@@ -31,18 +31,17 @@ width: 100%;
 }
 
 .flexbox{
-    margin: 15px;
+    display: flex;
     background-color:darkgray;
 }
 .words{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
+    
+    
+    flex: 1;
+    
 }
 .image{
-    display: flex;
-    flex-direction: column;
+       
     flex-basis: 100%;
     flex: 1;
 }
