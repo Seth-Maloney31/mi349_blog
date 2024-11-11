@@ -14,7 +14,7 @@ body{
     background-color: bisque;
 }
 
-ul{
+.nav{
 background-color: ghostwhite;
 position: sticky;
 top: 0;
