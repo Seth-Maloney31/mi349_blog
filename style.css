@@ -18,15 +18,13 @@ body{
 background-color: ghostwhite;
 position: sticky;
 top: 0px;
-
 padding: 10px;
-
 width: 100%;
 }
 
 .nav ul{
     list-style-type: none;
     display: flex;
-    margin: 0px;
+    margin: 20px;
     padding: 0px;
 }
