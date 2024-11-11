@@ -25,6 +25,6 @@ width: 100%;
 .nav ul{
     list-style-type: none;
     display: flex;
-    margin: 20px;
-    padding: 0px;
+    margin: 0px;
+    padding: 10px;
 }
