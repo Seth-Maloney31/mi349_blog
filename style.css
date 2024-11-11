@@ -13,3 +13,7 @@ th, td {
 body{
     background-color: bisque;
 }
+
+.nav{
+position: sticky;
+}
