@@ -29,3 +29,8 @@ width: 100%;
     gap: 20px;
     padding: 10px 15px;
 }
+
+p.para1{
+    background-color: darkgrey;
+    padding: 10px;
+}
