@@ -45,3 +45,11 @@ width: 100%;
     flex-basis: 100%;
     flex: 1;
 }
+.user1{
+    float: right;
+    width: 100px;
+    margin: 0 0 10px 10px;
+    background-color: darkslategrey;
+    padding: 10px;
+    
+}
