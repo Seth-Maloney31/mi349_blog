@@ -108,3 +108,8 @@ figcaption{
     border: 2px solid;
     margin-left:0px;
 }
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
