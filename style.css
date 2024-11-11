@@ -16,4 +16,6 @@ body{
 
 ul{
 position: sticky;
+margin: 0;
+padding: 0;
 }
